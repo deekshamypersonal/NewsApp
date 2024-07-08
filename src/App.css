@@ -1,0 +1,14 @@
+*{
+    margin : 0; 
+    padding : 0; 
+    box-sizing: border-box;
+}
+
+.background {
+    background-image: url('https://media.istockphoto.com/id/585329112/vector/vintage-victorian-style-newspaper-design-template.jpg?s=1024x1024&w=is&k=20&c=m1ikc2DZP2zvmjo0h5UgxqSDWL4I6GhqaB3VVQ6yp1s=');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Adjust height as needed */
+  }
+
